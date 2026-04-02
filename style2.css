@@ -1,0 +1,12 @@
+.text{
+ background-color: rgb(13, 181, 80);
+ align-items: center;
+ text-align: center;
+ padding: 30px,40px;
+ border: 20px;
+ width: 400px;
+ height: 30px;
+}
+.text h2{
+    margin: 20px;
+}
