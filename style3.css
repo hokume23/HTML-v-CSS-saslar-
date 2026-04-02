@@ -1,0 +1,9 @@
+.text{
+ width: 100;
+ padding: 30px;
+ border-radius: 0;
+ text-align: left;
+ background: #1d171d;
+color: white;
+word-spacing: 20px;
+}
