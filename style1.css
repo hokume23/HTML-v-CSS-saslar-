@@ -1,0 +1,16 @@
+.card {
+  background-color: turquoise;
+  align-items: center;
+  text-align: center;
+  padding: 30px 50px;
+  border-radius: 20px;
+  width: 300px;
+}
+
+.card h2 {
+  margin-bottom: 10px;
+}
+
+.card p {
+  margin: 0;
+}
